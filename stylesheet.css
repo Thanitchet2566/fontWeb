@@ -3,9 +3,21 @@
 
 
 @font-face {
-    font-family: 'iannnnn-goose';
-    src: url('iannnnn-goose-bold-webfont.woff2') format('woff2'),
-         url('iannnnn-goose-bold-webfont.woff') format('woff');
+    font-family: 'th_baijam';
+    src: url('th_baijam_bold_italic-webfont.woff2') format('woff2'),
+         url('th_baijam_bold_italic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'th_baijam';
+    src: url('th_baijam_bold-webfont.woff2') format('woff2'),
+         url('th_baijam_bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -15,9 +27,21 @@
 
 
 @font-face {
-    font-family: 'iannnnn-goose';
-    src: url('iannnnn-goose-regular-webfont.woff2') format('woff2'),
-         url('iannnnn-goose-regular-webfont.woff') format('woff');
+    font-family: 'th_baijam';
+    src: url('th_baijam_italic-webfont.woff2') format('woff2'),
+         url('th_baijam_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'th_baijam';
+    src: url('th_baijam-webfont.woff2') format('woff2'),
+         url('th_baijam-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -27,9 +51,9 @@
 
 
 @font-face {
-    font-family: 'iannnnn-goose';
-    src: url('iannnnn-goose-bold-webfont.woff2') format('woff2'),
-         url('iannnnn-goose-bold-webfont.woff') format('woff');
+    font-family: 'th_chakra_petch';
+    src: url('th_chakra_petch_bold-webfont.woff2') format('woff2'),
+         url('th_chakra_petch_bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -39,11 +63,11 @@
 
 
 @font-face {
-    font-family: 'iannnnn-goose';
-    src: url('iannnnn-goose-regular-webfont.woff2') format('woff2'),
-         url('iannnnn-goose-regular-webfont.woff') format('woff');
+    font-family: 'th_chakra_petch';
+    src: url('th_chakra_petch_italic-webfont.woff2') format('woff2'),
+         url('th_chakra_petch_italic-webfont.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 
 }
 
@@ -51,33 +75,9 @@
 
 
 @font-face {
-    font-family: 'iannnnn-dog';
-    src: url('iannnnn-dog-bold-webfont.woff2') format('woff2'),
-         url('iannnnn-dog-bold-webfont.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'iannnnn-dog';
-    src: url('iannnnn-dog-light-webfont.woff2') format('woff2'),
-         url('iannnnn-dog-light-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'iannnnn-dog';
-    src: url('iannnnn-dog-regular-webfont.woff2') format('woff2'),
-         url('iannnnn-dog-regular-webfont.woff') format('woff');
+    font-family: 'th_chakra_petch';
+    src: url('th_chakra_petch-webfont.woff2') format('woff2'),
+         url('th_chakra_petch-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
